@@ -1,1 +1,1 @@
-# [t.me/Socialbest_bot](Telegram bot) with info
+# [Telegram bot](t.me/Socialbest_bot) with info
